@@ -1,0 +1,13 @@
+
+# File konfigurasi rahasia
+.env
+.env.*
+!.env.example
+
+# File sistem operasi
+.DS_Store
+Thumbs.db
+
+# File cadangan
+*.bak
+*.tmp
